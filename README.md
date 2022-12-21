@@ -82,7 +82,7 @@ predict.py --input D:\data\predict --load D:\buttNet\checkpoints\ok4_7Patches_ep
 ```
 
 ## Pretrained model
-A [pretrained model](https://github.com/milesial/Pytorch-UNet/releases/tag/v3.0) is available to test LED component
+A [pretrained model](https://github.com/Davidleeeeee/buttNet/releases/download/v1/ok4_7Patches_epoch7.pth) is available to test LED component
 
 ### Description
 This model was trained only with 5k positive images and It's also very easy to train with your own single GPU(gtx1060) with your own data
