@@ -15,7 +15,7 @@ The official implementation of [buttNet](https://arxiv.org/abs/2301.10584) in Py
 pip install -r requirements.txt
 ```
 
-4. Download the training set:
+4. Download the sample training set:
 ```bash
 Link：https://pan.baidu.com/s/1-u6dBLCDPyRE3ocm6YZFSA 
 Code：uygq
