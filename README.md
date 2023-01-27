@@ -2,7 +2,7 @@
 
 
 
-Official implementation of the [buttNet](https://arxiv.org/abs/1505.04597) in PyTorch to detect negative samples only use positive samples to train.
+Official implementation of the [buttNet](https://arxiv.org/abs/2301.10584) in PyTorch to detect negative samples only use positive samples to train.
 
 ## Quick start
 
